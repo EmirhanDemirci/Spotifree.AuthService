@@ -1,3 +1,5 @@
+using Xunit;
+
 namespace Spotifree.AuthService.DataAccess.XUnit
 {
     public class UnitTest1

@@ -1,3 +1,5 @@
+using Xunit;
+
 namespace Spotifree.AuthService.Logic.XUnit
 {
     public class UnitTest1
